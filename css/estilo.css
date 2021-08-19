@@ -7,34 +7,19 @@ body{
 	font-family: 'Comfortaa', cursive;
 }
 
-h1{
+h1{color: #90EE90;
+text-align: center;}
 
-color: #90EE90;
-text-align: center;
-}
+p{font-size: 17px;
+	text-align:justify;}
 
-p{
+img{width: 35%;}
 
-	font-size: 17px;
-	text-align:justify;
-
-
-}
-
-img{
-
-	width: 35%;
-}
-
-figure{
-text-align: center;
-
-
-}
+figure{text-align: center;}
 
 table, th, td {
-  border: 1px solid #FFF;
-}
+  border: 1px solid #FFF;}
+
 h3 {color: #90EE90  }
 
 h4 {color: #90EE90  }
